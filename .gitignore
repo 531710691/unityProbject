@@ -3,3 +3,5 @@ Library
 *.csproj
 *.vsconfig
 .vs
+ProjectSettings
+Logs
